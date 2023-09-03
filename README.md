@@ -22,4 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juank0205&" alt="juank0205" /></p>
 <br>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/linux-tux-rotate-gif-24807752"/>
+![linux-tux](https://github.com/juank0205/juank0205/assets/58149552/a30dd2de-731f-4d8e-97d1-c357bc6507d0)
+
