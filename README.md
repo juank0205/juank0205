@@ -1,3 +1,7 @@
+<img alt="Coding" align="center" width="100%" src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif"/>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on PartnerHelper<br>🌱 Currently learning ReactNative and C++ development for Linux<br>⚡ Fun fact: I enjoy playing guitar
 
