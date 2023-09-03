@@ -21,4 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juank0205&show_icons=true&locale=en&layout=compact" alt="juank0205" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juank0205&" alt="juank0205" /></p>
-![linux-tux](https://github.com/juank0205/juank0205/assets/58149552/964089ee-0821-4221-9acc-f331b2839e98)
+<br>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/linux-tux-rotate-gif-24807752"/>
