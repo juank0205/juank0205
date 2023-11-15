@@ -3,7 +3,7 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on PartnerHelper<br>🌱 Currently learning ReactNative and C++ development for Linux<br>⚡ Fun fact: I enjoy playing guitar
+🌱 Currently learning Flutter and C++ development for Linux<br>⚡ Fun fact: I enjoy playing guitar
 
 [![](https://visitcount.itsvg.in/api?id=juank0205&icon=2&color=11)](https://visitcount.itsvg.in)
 
